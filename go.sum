@@ -1,5 +1,7 @@
 github.com/airbrake/gobrake/v4 v4.1.2-0.20200711003936-b080e65b3708 h1:RTKpovfgyIbK1VeFz6Wf3WOtQ8wk9EV1djRTTM2rm0c=
 github.com/airbrake/gobrake/v4 v4.1.2-0.20200711003936-b080e65b3708/go.mod h1:4ctHTPfxExOONjQiveITBtVzLXLKcyM+LKQX5zGnXOU=
+github.com/airbrake/gobrake/v4 v4.2.0 h1:ulqURL79rzUum+2gW5wBGHVSjcEoZTwgI6WsA/Qdcwk=
+github.com/airbrake/gobrake/v4 v4.2.0/go.mod h1:4ctHTPfxExOONjQiveITBtVzLXLKcyM+LKQX5zGnXOU=
 github.com/caio/go-tdigest v3.1.0+incompatible h1:uoVMJ3Q5lXmVLCCqaMGHLBWnbGoN6Lpu7OAUPR60cds=
 github.com/caio/go-tdigest v3.1.0+incompatible/go.mod h1:sHQM/ubZStBUmF1WbB8FAm8q9GjDajLC5T7ydxE3JHI=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
